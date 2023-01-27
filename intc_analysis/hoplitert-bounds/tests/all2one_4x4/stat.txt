@@ -1,0 +1,15 @@
+network is Stable (True)
+Worst Waiting Times
+	Network Waiting Times only:
+		East:112
+		South:35
+	Total (network + bucket) (of the above flows):
+		East:127
+		South:50
+	Total worst Client waitings for the bucket only :
+		East:15
+		South:15
+	The Total abslute worst Waiting:
+		East:127
+		South:50
+1
