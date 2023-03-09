@@ -7,4 +7,4 @@
 - `integration`: the integration of the design with the interconnect, where the caches/interconnects/LLCs are treated as blackboxes in SpinalHDL
 
 # Reference
-- Zhuanhao Wu, Marat Bekmyrza, Nachiket Kapre and Hiren Patel, "Ditty: Directory-based Cache Coherence for Multicore Safety-critical Systems," in proceedings of IEEE Design Automation and Test in Europe (DATE), pg 6, 2023.
+- Zhuanhao Wu, Marat Bekmyrza, Nachiket Kapre and Hiren Patel, "Ditty: Directory-based Cache Coherence for Multicore Safety-critical Systems," in proceedings of IEEE Design Automation and Test in Europe (DATE), pg 6, 2023. [PREPRINT](https://caesr.uwaterloo.ca/assets/pdfs/wu_23_ditty_date.pdf)
